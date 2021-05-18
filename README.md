@@ -15,7 +15,8 @@ Add .env file contain
 PORT, DB_CONNECTION & SECRET_KEY
 
 
-after finish, run server
+
+after that, run the server
 ```sh
 yarn dev
 ```
