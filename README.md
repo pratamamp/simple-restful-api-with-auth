@@ -10,6 +10,11 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 yarn
 ```
+
+Add .env file contain
+PORT, DB_CONNECTION & SECRET_KEY
+
+
 after finish, run server
 ```sh
 yarn dev
@@ -25,9 +30,9 @@ localhost:3300
 ```
 ## 
 
-public url:
+demo url:
 ```sh
-https://radiant-thicket-36107.herokuapp.com
+https://restful-api-node-mongo.herokuapp.com/
 ```
 
 #### End Point
